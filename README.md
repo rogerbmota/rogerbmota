@@ -1,10 +1,3 @@
-<div align="center">
-  <h1>Roger Oliveira Brito da Mota</h1>
-  <h3>Estudante de Engenharia de Software</h3>
-</div>
-
-<br/>
-
 <h2 align="center">O que estou estudando</h2>
 
 Meu foco de estudo atual está na expansão das minhas habilidades técnicas e na aplicação de metodologias de desenvolvimento eficientes, mergulhando em temas como:
@@ -32,7 +25,7 @@ Sou movido pela curiosidade e pelo desejo de evoluir, buscando constantemente pr
 
 <br/>
 
-<h2 align="center">📫 Vamos Conectar!</h2>
+<h2 align="center">Vamos Conectar!</h2>
 
 <div align="center">
   <p>Minhas portas estão sempre abertas para novas conexões e parcerias. Fique à vontade para explorar meus repositórios, sugerir colaborações ou simplesmente me chamar para um café. Adoraria conversar sobre <strong>desenvolvimento de software</strong>, <strong>novas tecnologias</strong> e outros tópicos do mundo tech!</p>
