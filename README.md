@@ -17,7 +17,6 @@ Sou movido pela curiosidade e pelo desejo de evoluir, buscando constantemente pr
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/java/original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" />
 <img aling="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" />
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/powerbi/original-wordmark.svg" />
 <img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/git/original-wordmark.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" />
