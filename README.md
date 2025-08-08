@@ -1,9 +1,13 @@
-## Roger Oliveira Brito da Mota
-Sou Estudante de Engenharia de Software com uma paixão por **desenvolvimento de software**, **automação de processos** e **tecnologias inovadoras**.
+<div align="center">
+  <h1>Roger Oliveira Brito da Mota</h1>
+  <h3>Estudante de Engenharia de Software</h3>
+</div>
 
-##  O que estou estudando
+<br/>
 
-Meu foco de estudo atual está na expansão das minhas habilidades técnicas e na aplicação de metodologias de desenvolvimento eficientes:
+<h2 align="center">O que estou estudando</h2>
+
+Meu foco de estudo atual está na expansão das minhas habilidades técnicas e na aplicação de metodologias de desenvolvimento eficientes, mergulhando em temas como:
 - **Computação em Nuvem** (Serviços AWS como EC2, S3, RDS, IAM, Lambda, etc.)
 - **DevOps e CI/CD** (AWS CodePipeline, CodeDeploy)
 - **Automação de Processos** (com N8N e APIs)
@@ -12,24 +16,37 @@ Meu foco de estudo atual está na expansão das minhas habilidades técnicas e n
 
 Sou movido pela curiosidade e pelo desejo de evoluir, buscando constantemente projetos que me desafiem e expandam minha experiência em backend e infraestrutura.
 
-###  Linguagens e Tecnologias
-
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/java/original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" />
-<img aling="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" />
-<img align="left" alt="AWS" title="AWS" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/amazonwebservices/original-wordmark.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/git/original-wordmark.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"  src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" />
-<br/>
 <br/>
 
-##  Vamos Conectar!
+<h2 align="center">💻 Linguagens e Tecnologias</h2>
 
-Minhas portas estão sempre abertas para novas conexões e parcerias. Fique à vontade para explorar meus repositórios, sugerir colaborações ou simplesmente me chamar para um café. Adoraria conversar sobre **desenvolvimento de software**, **novas tecnologias** e outros tópicos do mundo tech!
-
-- [LinkedIn](https://www.linkedin.com/in/roger-mota/)
-- [Email](mailto:rogerbmotati@gmail.com)
+<div align="center">
+  <img alt="Java" title="Java" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Python" title="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="SQL" title="SQL" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="AWS" title="AWS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Git" title="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="HTML" title="HTML" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+</div>
 
 <br/>
-<img align="left" alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbmota&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"  />
+
+<h2 align="center">📫 Vamos Conectar!</h2>
+
+<div align="center">
+  <p>Minhas portas estão sempre abertas para novas conexões e parcerias. Fique à vontade para explorar meus repositórios, sugerir colaborações ou simplesmente me chamar para um café. Adoraria conversar sobre <strong>desenvolvimento de software</strong>, <strong>novas tecnologias</strong> e outros tópicos do mundo tech!</p>
+  <br/>
+  <a href="https://www.linkedin.com/in/roger-mota/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rogerbmotati@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbmota&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
