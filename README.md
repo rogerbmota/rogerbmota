@@ -37,9 +37,3 @@ Sou movido pela curiosidade e pelo desejo de evoluir, buscando constantemente pr
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <img alt="GitHub Stats" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerbmota&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
